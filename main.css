@@ -3,10 +3,11 @@ html {
 }
 
 body {
-  background-color: #4a90ff;
+  background-color: #2863c2;
 }
 
 h1 {
+  font-size: 8rem;
   color: white;
   font-weight: bold;
 }
