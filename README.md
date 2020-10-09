@@ -1,15 +1,11 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/HfV9oxX.png" alt="Psybitcoin" width="420">
+  <img src="https://i.imgur.com/HfV9oxX.png" alt="Psybitcoin" width="180">
   <br>
   A Bitcoin psycho project
   <br>
   <br>
-</h1>
-
-<p align="center">
-  <br>
   Made with :heart: by Psycarlo
-</p>
+</h1>
 
 # Contribute
 
