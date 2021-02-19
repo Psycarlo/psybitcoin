@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.imgur.com/HfV9oxX.png" alt="Psybitcoin" width="160">
+  <img src="https://i.imgur.com/rD7AdyT.png" alt="Psybitcoin" width="160">
   <br>
   A Bitcoin psycho project
   <br>
